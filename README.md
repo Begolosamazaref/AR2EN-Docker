@@ -25,7 +25,7 @@ This project provides a REST API for translating Arabic text to English using th
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Begolosamazaref/AR2EN-Docker.git
    cd AR2EN_Docker
    ```
 
@@ -108,8 +108,8 @@ The API will be available at http://localhost:5000
 
 ## License
 
-[Specify your license here]
+MIT License
 
 ## Contact
 
-[Your contact information] 
+Begolosamazaref on GitHub
