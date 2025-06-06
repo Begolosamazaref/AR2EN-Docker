@@ -105,11 +105,3 @@ The API will be available at http://localhost:5000
 3. The translation process runs asynchronously in a separate thread
 4. Clients can check the status of their translation using the task ID
 5. Once complete, the translation result can be retrieved
-
-## License
-
-MIT License
-
-## Contact
-
-Begolosamazaref on GitHub
